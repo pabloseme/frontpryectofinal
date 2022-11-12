@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maze&display=swap');
+.navbar-brand {
+  font-size: 30px !important;
+  font-family: 'Rubik Maze', cursive;
+}
+
+.title-nav {
+  background-color: #CEAB93;
+}
+
+.image-navbar{
+  height: 80px;
+}
+.nav-item:hover {
+  background-color: #AD8B73;
+}
+
+.img-login {
+  width: 35px;
+}
+
+.btn-login {
+  background-color: #CEAB93;
+  height: 35px;
+  border-radius: 5 !important;
+  border-color: #AD8B73;
+}
+
+.t-texto{
+  font-size: 25px;
+}

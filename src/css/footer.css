@@ -1,0 +1,20 @@
+@media (max-width: 576px){
+    .col-responsive{
+        padding-top: 3px;
+        
+    }
+}
+@media (min-width: 576px){
+    .col-responsive{
+        padding-top: 5vh;
+
+    }
+}
+.fondo-footer{
+    background-color: black;
+    opacity: 0.9;
+}
+.footer{
+    margin-top: auto;
+    text-align: center;
+}

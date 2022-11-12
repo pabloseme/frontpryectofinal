@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.tarjeta{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    height: 20%;
+}
+
+.fondo-titulo{
+    background-color: #AD8B73;
+    border-radius: 5px;
+}
+.fondo-body{
+    background-color: #FFFBE9;
+}
+.fondo-borde{
+    border-color: #E3CAA5;
+}
+
